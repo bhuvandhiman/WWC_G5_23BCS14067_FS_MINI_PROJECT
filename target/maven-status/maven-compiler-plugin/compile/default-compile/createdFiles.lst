@@ -1,0 +1,16 @@
+com\courseregistration\config\SecurityConfig.class
+com\courseregistration\controller\StudentController.class
+com\courseregistration\security\JwtAuthenticationFilter.class
+com\courseregistration\controller\AuthController.class
+com\courseregistration\entity\Student.class
+com\courseregistration\service\StudentService.class
+com\courseregistration\entity\User.class
+com\courseregistration\service\JwtTokenProvider.class
+com\courseregistration\dto\RegisterRequest.class
+com\courseregistration\repository\StudentRepository.class
+com\courseregistration\service\AuthService.class
+com\courseregistration\dto\LoginResponse.class
+com\courseregistration\dto\StudentDTO.class
+com\courseregistration\StudentCourseRegistrationApplication.class
+com\courseregistration\repository\UserRepository.class
+com\courseregistration\dto\LoginRequest.class
